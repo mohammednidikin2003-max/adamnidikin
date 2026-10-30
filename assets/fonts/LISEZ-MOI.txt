@@ -1,0 +1,2 @@
+Déposer ici le fichier de la police Phonk : Phonk.woff2 (ou Phonk.ttf).
+Le site la charge automatiquement. Sans ce fichier, il utilise Anton / Impact.
